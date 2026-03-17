@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Medscope – an AI-powered platform for faster radiology diagnosis and automated medical report generation**<br><br>👯 I’m looking to collaborate on **AI/ML projects, healthcare AI, and open-source machine learning tools**<br><br>🤝 I’m looking for help with **improving medical imaging models and scaling AI systems for real-world deployment**<br><br>🌱 I’m currently learning **advanced machine learning, computer vision, and scalable backend systems**<br><br>💬 Ask me about **Python, machine learning, AI startups, backend automation, and building real-world ML applications**<br><br>⚡ Fun fact: **I enjoy turning complex AI ideas into practical products that solve real problems**<br>
+🔭 I’m currently working on **Medscope – an AI-powered platform for faster radiology diagnosis and automated medical report generation**<br><br>👯 I’m looking to collaborate on **AI/ML projects and open-source machine learning tools**<br><br>🌱 I’m currently learning **advanced machine learning, computer vision, and scalable backend systems**<br><br>💬 Ask me about **Python, machine learning, AI startups, backend automation, and building real-world ML applications**<br><br>⚡ Fun fact: **I enjoy turning complex AI ideas into practical products that solve real problems**<br>
 
 
 ## 🌐 Socials:
